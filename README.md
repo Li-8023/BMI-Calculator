@@ -1,5 +1,5 @@
 # BMI-Calculator
-Design and Implement and iPhone app that 
+Design and Implement and iPhone app using swiftui that 
 + Read the weight of a person in pounds and height of a person in inches 
     - typing the weight and height in text field
     - use slider to represent the height and weight
